@@ -16,4 +16,5 @@ the objective of this FMCG data analysis project is to evaluate overall sales pe
 - ## Dashboard Interaction
 - <a href="https://github.com/Mithu2409/FMCG-/blob/main/Screenshot%202025-12-25%20120245.png">Tableau Dashboard</a>
 - <a href="https://github.com/Mithu2409/FMCG-/blob/main/Screenshot%202025-12-25%20120705.png">Power-BI Dashboard</a>
+- <a href="https://github.com/Mithu2409/FMCG-/blob/main/Screenshot%202025-12-27%20180418.png">Excel Dashboard</a>
 
