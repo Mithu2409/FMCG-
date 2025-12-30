@@ -27,3 +27,6 @@ the objective of this FMCG data analysis project is to evaluate overall sales pe
 - Analyzed the visuals to identify sales trends, high- and low-performing products, and store contributions, and derived actionable business insights.
 - Summarized findings and provided recommendations to improve inventory management, sales strategy, and overall FMCG performance.
 
+## Conclusion
+- This FMCG data analysis project successfully transformed raw sales data into meaningful business insights by evaluating product performance, store-level sales, and SKU contribution. The analysis identified top-performing and fast-moving products, highlighted revenue contribution across stores, and revealed sales patterns that impact inventory and pricing decisions. Through effective data cleaning, KPI calculation, and visualization, the project demonstrated how data-driven analysis can support better planning, optimize inventory management, and improve overall sales performance in the FMCG sector.
+
