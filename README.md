@@ -12,3 +12,6 @@ the objective of this FMCG data analysis project is to evaluate overall sales pe
 - SKU Contribution (%) – Shows each SKU’s percentage contribution to total sales.
 - Average Sales per Product – Evaluates the average performance of individual products.
 - Sales Trend Analysis – Tracks sales performance over time to identify growth or decline patterns.
+
+- ## Dashboard Interaction
+- <a href="
