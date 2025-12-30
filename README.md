@@ -14,4 +14,5 @@ the objective of this FMCG data analysis project is to evaluate overall sales pe
 - Sales Trend Analysis – Tracks sales performance over time to identify growth or decline patterns.
 
 - ## Dashboard Interaction
-- <a href="
+- <a href="https://github.com/Mithu2409/FMCG-/blob/main/Screenshot%202025-12-25%20120245.png">Tableau Dashboard</a>
+
